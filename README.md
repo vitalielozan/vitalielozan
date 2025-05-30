@@ -1,6 +1,6 @@
 ![Developer Banner](https://img.shields.io/badge/Developer%20Journey-%E2%9C%94%20Progress-green)
 
-# 👋 Hi, I’m @Vitascha
+# 👋 Hi, I’m @VitalieLozan
 
 I’m a curious and passionate aspiring **full stack developer**, currently diving deep into **front-end development**. Although I studied microelectronics back in 1999, it wasn't until 2024 that I realized software development is truly my calling. I'm all in now — and loving the journey. 🚀
 
@@ -34,7 +34,7 @@ He / Him
 
 ---
 
-# 👋 Hallo, ich bin @Vitascha
+# 👋 Hallo, ich bin @VitalieLozan
 
 Ich bin ein neugieriger und leidenschaftlicher angehender **Full-Stack-Entwickler**, der sich aktuell auf **Frontend-Entwicklung** konzentriert. Obwohl ich bereits 1999 Mikroelektronik studiert habe, habe ich erst 2024 erkannt, dass Softwareentwicklung meine wahre Berufung ist. Jetzt bin ich voll dabei – und es fühlt sich richtig an. 🚀
 
