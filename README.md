@@ -30,7 +30,7 @@ I’m a curious and passionate aspiring **full stack developer**, currently divi
 He / Him
 
 ## ⚡ Fun fact
-I studied microelectronics Colledge in 1999, but it took me until 2024 to realize that **software** is where I belong. It's never too late to start fresh!
+...
 
 ---
 
@@ -64,4 +64,4 @@ Ich bin ein neugieriger und leidenschaftlicher angehender **Full-Stack-Entwickle
 Er / Ihm
 
 ## ⚡ Fun Fact
-Ich habe 1999 Mikroelektronik Kollegium studiert – aber erst 2024 erkannt, dass **Softwareentwicklung** mein Ding ist. Es ist nie zu spät, neu anzufangen!
+...
