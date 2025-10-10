@@ -24,7 +24,8 @@ I’m a curious and passionate aspiring **full stack developer**, currently divi
 ## 📫 How to reach me
 - Email: **vitalielozan17@outlook.com**
 - LinkedIn: www.linkedin.com/in/vitalie-lozan-122745350
-- Personal website: https://vitalielozan.github.io/
+- Personal website: [https://vitalielozan.github.io](https://vitalielozan.github.io)
+
 
 ## 😄 Pronouns
 He / Him
