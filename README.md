@@ -24,7 +24,7 @@ I’m a curious and passionate aspiring **full stack developer**, currently divi
 ## 📫 How to reach me
 - Email: **vitalielozan17@outlook.com**
 - LinkedIn: www.linkedin.com/in/vitalie-lozan-122745350
-- Personal website: https://vitalielozan.github.io
+- Personal website: comming soon
 
 
 ## 😄 Pronouns
@@ -59,7 +59,7 @@ Ich bin ein neugieriger und leidenschaftlicher angehender **Full-Stack-Entwickle
 ## 📫 Kontakt
 - E-Mail: **vitalielozan17@outlook.com**
 - LinkedIn: www.linkedin.com/in/vitalie-lozan-122745350
-- Website: https://vitalielozan.github.io
+- website: kommt bald.
 
 ## 😄 Pronomen
 Er / Ihm
